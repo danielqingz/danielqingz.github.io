@@ -100,12 +100,9 @@ page-mathjax: false
 
 
 
-Friends
+# Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
         title: "ychao",
         href: "https://yongchanghao.github.io/"
     }
