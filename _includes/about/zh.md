@@ -1,1 +1,7 @@
-张嘉庆，NLP萌新，目前在[Tencent AI Lab NLP中心](https://ai.tencent.com/ailab/zh/index)实习（2020.9-present），同时就读于[美国佛罗里达大学ECE（电子与计算机工程）专业](https://www.ece.ufl.edu/)（2020.9-present），毕业于北京交通大学通信工程专业，曾作为信息系统工程师实习于IBM全球信息服务部门。
+张嘉庆，NLP萌新
+
+目前在[Tencent AI Lab NLP中心](https://ai.tencent.com/ailab/zh/index)实习（2020.9至今），同时就读于美国[佛罗里达大学](https://www.ece.ufl.edu/)ECE（电子与计算机工程）专业（2020.9至今）。
+
+毕业于北京交通大学通信工程专业，曾作为信息系统工程师实习于IBM全球信息服务部门，曾作为助研实习生实习于北京交通大学轨道交通控制与安全实验室。
+
+主要关注**机器翻译领域**，次要关注**计算机视觉领域**。
