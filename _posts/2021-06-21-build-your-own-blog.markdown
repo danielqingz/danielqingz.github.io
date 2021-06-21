@@ -6,7 +6,6 @@ author: "Jiaqing Zhang"
 header-style: text
 tags:
   - Blog
-  - JS
 ---
 
 废话不多讲，直接开干货：
@@ -31,9 +30,21 @@ tags:
 
 `_config.yml`是重点修改对象，网页的名字、社交网站链接、个人信息等基本内容在本文件内即可完成修改
 
-`img/`目录下的图片，你可以按需替换成自己的内容
+`img/`目录下的图片，你可以按需替换成自己的内容，网页的背景图片，你可以直接将原有的图片删除，并上传自己喜欢的图片，修改为跟之前相同的名字即可
 
-`_posts/`目录用于存放你的blog内容，内容格式可参考本文的`markdown`格式内容，直接修改为自己的内容即可
+`_posts/`目录用于存放你的blog内容，内容格式可参考`_posts/2021-06-21-build-your-own-blog.markdown`的格式内容，直接修改为自己的内容即可，文件的命名格式必须为`yyyy-mm-dd-your-title.markdown`
 
 ## Step 4
 将修改好的文件，拖拽上传到你先前建好的repo中，commit后，就大功告成了！
+
+打开你的`<username>.github.io`，就可以查看你Blog的内容了！
+
+## 额外的Step 5
+本文只介绍了建立blog最基本的操作，如果你对需要进行更为进阶的操作，可以学习[Jekyll](https://jekyllrb.com/)；另外，本repo有很多有趣的较为高级的功能，如搜索功能、提示网页刷新功能、离线阅读功能、自动生成词云功能、增加外挂评论区功能等，均保留在代码中，感兴趣的同学可以进一步探索。
+
+# Reference
+
+[Github Page Doc](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+[Hux Blog](https://github.com/Huxpro/huxpro.github.io) 
+
