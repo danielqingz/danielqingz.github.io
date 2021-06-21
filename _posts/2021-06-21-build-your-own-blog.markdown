@@ -9,6 +9,8 @@ tags:
   - JS
 ---
 
+废话不多讲，直接开干货：
+
 ## Step 1
 首先注册一个github账号，然后新建一个repo，命名为`<username>.github.io`，其中，`<username>`**是你github账号名**，例如我的blog地址为`danielqingz.github.io`。
 
