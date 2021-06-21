@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+title: Jiaqing Zhang's Blog
+SEOTitle: Jiaqing Zhang | Blog
+# header-img: img/home-bg.jpg
+email: danielqing99@yahoo.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: ""              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     张嘉庆z
+# zhihu_username:     huxpro
+github_username:    danielqingz
+# twitter_username:  huxpro
+# facebook_username:  huxpro
 
 
 
