@@ -14,6 +14,8 @@ tags:
 ## Step 1
 首先注册一个github账号，然后新建一个repo，命名为`<username>.github.io`，其中，`<username>`**是你github账号名**，例如我的blog地址为`danielqingz.github.io`。
 
+![img](/img/in-post/post-210621-1.jpg)
+
 ## Step 2
 向你空的repo中添加模版文件，本例子在[Hux Blog](https://github.com/Huxpro/huxpro.github.io)的基础上进行了简化和修改，你可以直接参考[Jiaqing Zhang's Blog](https://github.com/danielqingz/danielqingz.github.io)制作你自己的blog。
 
