@@ -1,6 +1,6 @@
 # Site settings
 title: Jiaqing Zhang's Blog
-SEOTitle: 张嘉庆的博客 | Hux Blog
+SEOTitle: 张嘉庆的博客 | Jiaqing Zhang's Blog
 header-img: img/home-bg.jpg
 email: danielqing99@yahoo.com
 description: ""
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "芜湖"
+sidebar-about-description: "NLP萌新｜Tencent AI Lab 小实习生｜UFL 小master"
 sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
