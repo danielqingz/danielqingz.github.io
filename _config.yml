@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: danielqing99@yahoo.com
 description: ""
 keyword: ""
-url: ""              # your host, for absolute URL
+url: "https://danielqingz.githud.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -49,9 +49,9 @@ kramdown:
 # Disqus settings
 #disqus_username: _your_disqus_short_name_
 
-# # Duoshuo settings
+# Duoshuo settings
 duoshuo_username: huxblog
-# # Share component is depend on Comment so we can NOT use share only.
+# Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
