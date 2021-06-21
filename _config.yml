@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "NLP萌新｜Tencent AI Lab 小实习生｜UFL 小master"
+sidebar-about-description: "NLP萌新｜Tencent AI Lab 实习生｜UFL master"
 sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
