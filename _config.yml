@@ -3,9 +3,9 @@ title: Jiaqing Zhang's Blog
 SEOTitle: Jiaqing Zhang | Blog
 header-img: img/home-bg.jpg
 email: danielqing99@yahoo.com
-description: ""
-keyword: ""
-url: "https://danielqingz.githud.io"              # your host, for absolute URL
+description: "NLP菜鸡起步之旅"
+keyword: "NLP"
+url: "https://danielqingz.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -13,7 +13,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 # SNS settings
 RSS: false
 weibo_username:     张嘉庆z
-zhihu_username:     张嘉庆
+# zhihu_username:     张嘉庆
 github_username:    danielqingz
 # twitter_username:  huxpro
 # facebook_username:  huxpro
