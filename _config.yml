@@ -1,8 +1,8 @@
 # Site settings
-title: Jiaqing Zhang's Blog
-SEOTitle: 张嘉庆的博客 | Jiaqing Zhang's Blog
+title: Jiaqing Zhang
+SEOTitle: 张嘉庆 | Jiaqing Zhang
 header-img: img/home-bg.jpg
-email: danielqing99@yahoo.com
+email: danielqing99@gmail.com
 description: ""
 keyword: "张嘉庆, NLP"
 url: ""              # your host, for absolute URL
@@ -78,7 +78,7 @@ ga_track_id: 'G-K37GQE4D13'            # Format: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "NLP萌新｜Tencent AI Lab 实习生｜UFL master"
+sidebar-about-description: "PhD student at the University of Florida"
 sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
